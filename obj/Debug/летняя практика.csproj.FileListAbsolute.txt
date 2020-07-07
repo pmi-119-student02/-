@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя практика.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя_практика.Form1.resources
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя_практика.Properties.Resources.resources
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя практика.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя практика.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\летняя практика\летняя практика\bin\Debug\летняя практика.exe.config
+C:\Users\admin\source\repos\летняя практика\летняя практика\bin\Debug\летняя практика.exe
+C:\Users\admin\source\repos\летняя практика\летняя практика\bin\Debug\летняя практика.pdb
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя практика.exe
+C:\Users\admin\source\repos\летняя практика\летняя практика\obj\Debug\летняя практика.pdb
